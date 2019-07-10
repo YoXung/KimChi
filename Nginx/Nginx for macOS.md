@@ -1,4 +1,4 @@
-#### 下载Nginx(only for windows) [传送门](http://nginx.org)
+#### Nginx[传送门](http://nginx.org)
 
 
 * *安装*
