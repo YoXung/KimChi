@@ -5,12 +5,12 @@
 * *解压到指定目录下*
 
         解压到：/Users/用户名/
-        （当下最新版本为apache-maven-3.6.1）
+        （当下最新版本为apache-maven-3.6.2）
 * *配置Maven环境变量*
 
         $ vi ~/.bash_profile
         
-        export M2_HOME=/Users/用户名/apache-maven-3.6.1
+        export M2_HOME=/Users/用户名/apache-maven-3.6.2
         export PATH=$PATH:$M2_HOME/bin
         :wq
 * *生效*
