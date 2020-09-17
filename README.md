@@ -1,1 +1,1 @@
-# WhaleFall
+# Installation Guid for JAVA
